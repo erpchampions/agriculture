@@ -1,8 +1,8 @@
 # Copyright (c) 2017, Frappe Technologies Pvt. Ltd. and Contributors
 # See license.txt
 
-import unittest
+from frappe.tests.utils import FrappeTestCase
 
 
-class TestAgricultureAnalysisCriteria(unittest.TestCase):
+class TestAgricultureAnalysisCriteria(FrappeTestCase):
 	pass
